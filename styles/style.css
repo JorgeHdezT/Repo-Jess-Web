@@ -108,7 +108,7 @@ body {
 
     .linktree {
       display: flex;
-      margin-top: -220px;
+      margin-top: -200px;
       flex-direction: column;
       justify-content: center;
       align-items: center;
