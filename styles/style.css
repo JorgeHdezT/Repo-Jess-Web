@@ -99,10 +99,11 @@ body {
 
   @media screen and (max-width: 768px) {
     #Imagen {
-      width: 150%;
-      height: 150%;
-      left: -37%;
-      opacity: 50%;
+      width: 120%;
+      height: 120%;
+      top: 20%;
+      left: -20%;
+      opacity: 30%;
     }
 
     .linktree {
@@ -126,7 +127,7 @@ body {
       text-shadow: 0 0 5px rgb(0, 140, 255), 0 0 5px rgb(0, 140, 255);
       background-color: rgba(255, 255, 255, 0);
       border: 3px solid white;
-      width: 200px;
+      width: 180px;
       text-align: center;
       transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
     }
